@@ -6,6 +6,11 @@ body {
     font: 'Roboto', sans-serif;
     color: #333;
 }
+
+a {
+    color: $mainOrange;
+}
+
 img {
     max-width: 100%;
     height: auto;

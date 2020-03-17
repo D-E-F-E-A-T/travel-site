@@ -23,6 +23,16 @@
 
     }
 
+    &__b-margin-until-medium {
+        margin-bottom: 1rem;
+     
+    }
+
+    @mixin atMedium {
+        margin-bottom: 0;
+    }
+
+
     &--gutters > div {
         padding-right: 60px;
     }
